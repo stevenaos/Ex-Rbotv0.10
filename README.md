@@ -1,7 +1,7 @@
 # Public Discord Bot
 
 ## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/T57ZdQKWRs)
-> 💪 **Host on Replit:** [**Replit Fork**](https://replit.com/@MiitsuyaaGanten/Ex-Rbotv010#main.py)
+> 💪 **Host on Replit:** [**Replit Fork**](https://replit.com/@MiitsuyaaGanten/Ex-Rbotv010)
 
 ## Installation | How to use the Handler
 
