@@ -1,3 +1,0 @@
-{
-    "TOKEN": "curl $REPLIT_DB_URL/TOKEN",
-}
